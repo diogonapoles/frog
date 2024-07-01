@@ -1,4 +1,4 @@
-# 🐸 Frog Programming Language
+# Frog Programming Language
 
 Welcome to Frog, a whimsical and enlightening journey into the world of
 computer science!
